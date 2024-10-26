@@ -1,5 +1,5 @@
 # Gihun Ham -- @progh2
-### Hi there 👋. I'm teacher at Mirim girls' information science highschool in south korea.
+### Hi there 👋. I'm teacher at Mirim meister highschool in south korea.
 - 🔭 I’m currently teaching in 2020 ...
   * C# Programming(Basic)
   * JSP Web Programming
