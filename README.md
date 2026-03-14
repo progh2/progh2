@@ -1,12 +1,9 @@
 # Gihun Ham -- @progh2
 ### Hi there 👋. I'm teacher at Mirim meister highschool in south korea.
-- 🔭 I’m currently teaching in 2020 ...
-  * C# Programming(Basic)
-  * JSP Web Programming
-
-- 🌱 I’m currently learning ...
-  * Django
-  * Flutter
+- 🔭 I’m currently teaching in 2010 ~ 2026(Now) ...
+  * Python Programming
+  * Computer Science Basic
+  * AI & VIBE Coding
 
 <!--
 **progh2/progh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
