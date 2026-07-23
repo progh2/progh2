@@ -14,3 +14,5 @@
   * [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) — visual GUI tool for SQLite databases
   * [Django Girls Tutorial](https://tutorial.djangogirls.org/ko/) — beginner-friendly Django web development tutorial
   * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) — MySQL web administration tool
+- 🛠 Other open source contributions:
+  * [firebase/quickstart-js](https://github.com/firebase/quickstart-js/pull/66) — improved realtime database example to handle `child_changed` / `child_removed` events
