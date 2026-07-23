@@ -15,5 +15,7 @@
   * [CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) — HDD/SSD health monitoring utility
   * [Django Girls Tutorial](https://tutorial.djangogirls.org/ko/) — beginner-friendly Django web development tutorial
   * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) — MySQL web administration tool
+  * [Code.org](https://code.org) — CS education platform for K-12 students (via Crowdin)
+  * [InvenTree](https://github.com/inventree/InvenTree) — open source inventory management system
 - 🛠 Other open source contributions:
   * [firebase/quickstart-js](https://github.com/firebase/quickstart-js/pull/66) — improved realtime database example to handle `child_changed` / `child_removed` events
