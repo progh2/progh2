@@ -1,21 +1,15 @@
-# Gihun Ham -- @progh2
-### Hi there 👋. I'm teacher at Mirim meister highschool in south korea.
-- 🔭 I’m currently teaching in 2010 ~ 2026(Now) ...
+# Gihun Ham — @progh2
+
+### Hi there 👋 I'm a teacher at Mirim Meister High School in Seoul, South Korea.
+
+- 🔭 Teaching since 2010:
   * Python Programming
-  * Computer Science Basic
-  * AI & VIBE Coding
-
-<!--
-**progh2/progh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * Computer Science Basics
+  * AI & Vibe Coding
+- 🌐 Korean translation for open source projects:
+  * [LibreNMS](https://github.com/librenms/librenms) — network monitoring system
+  * [Snipe-IT](https://snipeitapp.com) — IT asset management (via Crowdin)
+  * [Part-DB](https://github.com/Part-DB/Part-DB-server) — electronic parts inventory management
+  * [drawDB](https://github.com/drawdb-io/drawdb) — database design tool & SQL generator in the browser
+  * [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)
+  * [Django Girls Tutorial](https://tutorial.djangogirls.org/ko/) — beginner-friendly Django web development tutorial
