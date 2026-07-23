@@ -12,6 +12,7 @@
   * [Part-DB](https://github.com/Part-DB/Part-DB-server) — electronic parts inventory management
   * [drawDB](https://github.com/drawdb-io/drawdb) — database design tool & SQL generator in the browser
   * [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) — visual GUI tool for SQLite databases
+  * [CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) — HDD/SSD health monitoring utility
   * [Django Girls Tutorial](https://tutorial.djangogirls.org/ko/) — beginner-friendly Django web development tutorial
   * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) — MySQL web administration tool
 - 🛠 Other open source contributions:
