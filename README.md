@@ -20,3 +20,4 @@
   * KLDP documentation, Linux kernel Korean translation, and more
 - 🛠 Other open source contributions:
   * [firebase/quickstart-js](https://github.com/firebase/quickstart-js/pull/66) — improved realtime database example to handle `child_changed` / `child_removed` events
+  * - [JSBoard](https://github.com/Joungkyun/JSBoard) — Authored the original RSS feed patch (2004), merged into v2.0.7
