@@ -23,3 +23,4 @@
   * [JSBoard](https://github.com/Joungkyun/JSBoard) — Authored the original RSS feed patch (2004), merged into v2.0.7
 - My Projects
   * [RepoManager](https://github.com/progh2/repomanager) - Desktop GUI to list, archive, and delete GitHub repositories in bulk (PySide6)
+  * [StatLab](https://progh2.github.io/stat-lab/) - 기초통계량 학습을 위해서 학생들이 연습할 수 있 사이트
