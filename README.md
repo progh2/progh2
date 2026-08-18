@@ -24,3 +24,12 @@
 - My Projects
   * [RepoManager](https://github.com/progh2/repomanager) - Desktop GUI to list, archive, and delete GitHub repositories in bulk (PySide6)
   * [StatLab](https://progh2.github.io/stat-lab/) - 기초통계량 학습을 위해서 학생들이 연습할 수 있 사이트
+
+## My Fram =D (just for fun)
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=progh2&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/progh2"
+  width="600"
+  height="300"
+/>
+</a>
