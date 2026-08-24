@@ -23,7 +23,7 @@
   * [JSBoard](https://github.com/Joungkyun/JSBoard) — Authored the original RSS feed patch (2004), merged into v2.0.7
 - My Projects
   * [RepoManager](https://github.com/progh2/repomanager) - Desktop GUI to list, archive, and delete GitHub repositories in bulk (PySide6)
- 
+  * [인터넷 랙 줄여주는 팁 적용 프로그램](https://github.com/progh2/internet-lag-tips) - 유튜브 영상에서 나온 랙 줄여주는 팁 딸깍 적용 프로그램
 - 수업 자료
   * [미림여고 AI특강](https://progh2.github.io/ai-lecture/) - 미림여고 AI 특강 
   * [StatLab](https://progh2.github.io/stat-lab/) - 기초통계량 학습을 위해서 학생들이 연습할 수 있 사이트
