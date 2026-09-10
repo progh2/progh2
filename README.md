@@ -22,6 +22,7 @@
   * [firebase/quickstart-js](https://github.com/firebase/quickstart-js/pull/66) — improved realtime database example to handle `child_changed` / `child_removed` events
   * [JSBoard](https://github.com/Joungkyun/JSBoard) — Authored the original RSS feed patch (2004), merged into v2.0.7
 - My Projects
+  * [별밭윷놀이](https://progh2.github.io/yutnori/) - 본격 3D 전통 윷놀이를 즐겨보세요! 봇들이 서로 치열하게 자리싸움하는 것을 관전하세요~
   * [RepoManager](https://github.com/progh2/repomanager) - Desktop GUI to list, archive, and delete GitHub repositories in bulk (PySide6)
   * [인터넷 랙 줄여주는 팁 적용 프로그램](https://github.com/progh2/internet-lag-tips) - 유튜브 영상에서 나온 랙 줄여주는 팁 딸깍 적용 프로그램
 - 수업 자료
