@@ -39,7 +39,7 @@
   * **그 외**
     * [별밭윷놀이](https://progh2.github.io/yutnori/) - 본격 3D 전통 윷놀이를 즐겨보세요! 봇들이 서로 치열하게 자리싸움하는 것을 관전하세요~
     * [mini-homepage](https://progh2.github.io/mini-homepage/) - 싸이월드 미니홈피 스타일 링크트리 (fork)
-    * [codenotch4win](https://github.com/progh2/codenotch4win) - Codenotch for Windows fork. 자동 업데이트·Grok Bot ring·한국어 UI를 먼저 구현했고, 이후 upstream이 공식 Windows 설치본을 제공하면서 역할을 마쳤습니다 (**archived**)
+    * [codenotch4win](https://github.com/progh2/codenotch4win) - Codenotch for Windows fork. 자동 업데이트·Grok Bot ring·한국어 UI를 먼저 구현했고, 이후 upstream이 공식 Windows 설치본을 제공하면서 역할을 마쳤습니다 (**archived**). 이제 [Codenotch](https://github.com/vinzdg/codenotch) 본가에서 Windows 릴리스와 한국어를 모두 지원하니 그쪽을 이용해 주세요 (추신: 한글화에 저도 참여했어요~)
 - 수업 자료
   * [미림여고 AI특강](https://progh2.github.io/ai-lecture/) - 미림여고 AI 특강 
   * [StatLab](https://progh2.github.io/stat-lab/) - 기초통계량 학습을 위해서 학생들이 연습할 수 있 사이트
