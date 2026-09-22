@@ -17,6 +17,7 @@
   * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) — MySQL web administration tool
   * [Code.org](https://code.org) — CS education platform for K-12 students (via Crowdin)
   * [InvenTree](https://github.com/inventree/InvenTree) — open source inventory management system
+  * [Codenotch](https://github.com/vinzdg/codenotch) — AI coding-tool usage rings in the macOS notch and on Windows ([PR #305](https://github.com/vinzdg/codenotch/pull/305): Korean on both platforms)
   * KLDP documentation, Linux kernel Korean translation, and more
 - 🛠 Other open source contributions:
   * [firebase/quickstart-js](https://github.com/firebase/quickstart-js/pull/66) — improved realtime database example to handle `child_changed` / `child_removed` events
